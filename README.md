@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ishPLC
+- 👋 Hi, I’m I.Shaturnyi (ishPLC)
 - 👀 C++ programming: UI, HMI, DB, communications. 
 - 🌱 I’m currently working as Electronics Engineer
 - 💞️ C++ PC Apps, and AVR microcontrollers prog.
