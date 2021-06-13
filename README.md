@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishPLC
+- 👋 Hi, I’m ishPLC
 - 👀 C++ programming: UI, HMI, DB, communications. 
 - 🌱 I’m currently working as Electronics Engineer
 - 💞️ C++ PC Apps, software for PLC Arduino and AVR MC.
