@@ -1,7 +1,6 @@
-- 👋 Hi, I’m I.Shaturnyi (ishPLC)
+- 👋 Hi, I’m I.Shaturnyi, Software Engineer.
 - 👀 C++ programming: UI, HMI, DB, communications Apps. 
-- 🌱 I’m currently working as Electronics Engineer
-- 💞️ C++ PC Apps, and AVR microcontrollers prog.
+- 🌱 Hobbies: development of hardware and software for microcontrollers and various electronics.
 - 📫 How to reach me: ingisaturny@gmail.com
 
 <!---
