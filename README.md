@@ -1,6 +1,6 @@
 - 👋 Hi, I am I.Shaturnyi, Electronics & Software Engineer.
 - 👀 C++ programming: UI, HMI, DB, communications Apps. 
-- 🌱 Hobbies: development of hardware and software for microcontrollers and various electronics.
+- 🌱 Hobbies: software for microcontrollers and play with AI
 - 📫 How to reach me: ingisaturny@gmail.com
 
 <!---
