@@ -2,6 +2,7 @@
 - 👀 C++ programming: UI, HMI, DB, communications Apps. 
 - 🌱 Hobbies: software for microcontrollers and play with AI
 - 📫 How to reach me: ingisaturny@gmail.com
+- or htecavt@gmail.com
 
 <!---
 ishPLC/ishPLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
