@@ -1,4 +1,4 @@
-- 👋 Hi, My creative name is Antonio Kupa.
+- 👋 Hi, My creative name is Antonio Kupa. Czech republic.
 - I am a writer, screenwriter, artist and voice actor.
 - 👀 Ex-jobs: programming software, electronics, economics, Data Analysis.
 - 🌱 Hobbies: Philosophy, History, Music,
