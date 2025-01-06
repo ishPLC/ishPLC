@@ -1,10 +1,11 @@
-- 👋 Hi, name is Shaturnyi Igor. Czech republic.
+- 👋 Hi, my name is Shaturnyi Igor.
+- My permanent place of residence: The whole world. Planet Earth.
 - I am now on disability pension.
-- I am a writer, screenwriter, artist and voice actor.
+- I am a Web Designer, writer, screenwriter.
 - 👀 Ex-jobs: programming software, electronics, economics, Data Analysis.
-- 🌱 Hobbies: Philosophy, History, Music,
+- 🌱 Hobbies: Philosophy, History, Music, Design,
    Data Analysis, karate, kung-fu, software, electronics, books, AI intelligences. 
-- 📫 How to reach me: ingisaturny@gmail.com
+- 📫 How to reach me: ingisaturnyOgmail.com
 - views on life: neutral. Let everyone live as their conscience allows them. For a world without borders.
 - For freedom and democracy. For a world without wars. For a bright future for our descendants.
 - For respect for every person. For a high culture of communication between people, as well as between countries.
