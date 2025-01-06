@@ -5,7 +5,7 @@
 - 👀 Ex-jobs: programming software, electronics, economics, Data Analysis.
 - 🌱 Hobbies: Philosophy, History, Music, Design,
    Data Analysis, karate, kung-fu, software, electronics, books, AI intelligences. 
-- 📫 How to reach me: ingisaturnyOgmail.com
+- 📫 How to reach me: ingisaturny@gmail.com
 - views on life: neutral. Let everyone live as their conscience allows them. For a world without borders.
 - For freedom and democracy. For a world without wars. For a bright future for our descendants.
 - For respect for every person. For a high culture of communication between people, as well as between countries.
