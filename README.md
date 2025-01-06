@@ -9,7 +9,9 @@
 - views on life: neutral. Let everyone live as their conscience allows them. For a world without borders.
 - For freedom and democracy. For a world without wars. For a bright future for our descendants.
 - For respect for every person. For a high culture of communication between people, as well as between countries.
+- Old version repository is https://ishplc.github.io/about/
 
+     ishPLC © 2025
 
 <!---
 ishPLC/ishPLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
